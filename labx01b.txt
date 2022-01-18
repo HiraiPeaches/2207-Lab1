@@ -1,0 +1,7 @@
+Q1: Emulator name and no boot up animation respectively.
+Q2: Simulator creates an environment that contains all software variables while Emulator mimics the hardware features of the production environment. Aka, simulator is like a replicating the OS of a phone but emulator replicates the whole phone.
+Q3. The ps (i.e., process status) command is used to provide information about the currently running processes, including their process identification numbers (PIDs).
+Q4. The df command (short for disk free), is used to display information related to file systems about total space and available space.
+Q5. The top command is used to show the active Linux processes.
+Q6. ./busybox-x86 find / -type f -name "*apk"
+Q7. 
